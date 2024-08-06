@@ -8,7 +8,7 @@ import java.util.List;
 public class RedSquareDetection {
 
     public static void main(String[] args) {
-        // Load the OpenCV library.5646
+        // Load the OpenCV library.56
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 
         // Read the image
