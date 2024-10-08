@@ -1,3 +1,4 @@
+// 56000000000000000000000000000000000000
 import org.opencv.core.*;
 import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.Imgproc;
@@ -8,7 +9,7 @@ import java.util.List;
 public class RedSquareDetection {
 
     public static void main(String[] args) {
-        // Load the OpenCV library.56000000000000000000000000000000000000
+        // Load the OpenCV library.
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 
         // Read the image
