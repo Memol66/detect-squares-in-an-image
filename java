@@ -1,5 +1,4 @@
-// 56000000000000000000000000000000000000
-import org.opencv.core.*;
+// 01
 import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.Imgproc;
 
